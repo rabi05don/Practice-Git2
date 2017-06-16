@@ -2,3 +2,4 @@ java
 ansible
 unix
 ant
+jenkins
